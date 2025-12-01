@@ -1,6 +1,6 @@
-hellllooo there!👋
+#hellllooo there!👋
 
-# 💫a little about me
+###💫a little about me
 ~a final-year IT engineering student stepping into tech and sharing my journey as I grow.  <br>🌱I started with small JavaScript projects,explored Python along the way and now I'm diving into the MERN stack.  <br>🔭I love building things that look clean, feel intuitive, and actually work (most of the time).
 
 ### 🤝 Let’s Connect  
