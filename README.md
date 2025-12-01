@@ -17,4 +17,4 @@ If you're into web development, MERN, or just learning tech together, feel free 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=okayruhhhh&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 🤔i’m looking for help with ...
-~suggestions for better learning paths, helpful resources, and guidance on improving tech journey
+<br>~suggestions for better learning paths, helpful resources, and guidance on improving tech journey
