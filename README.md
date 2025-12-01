@@ -1,4 +1,4 @@
-##hellllooo there!👋
+hellllooo there!👋
 
 # 💫a little about me
 ~a final-year IT engineering student stepping into tech and sharing my journey as I grow.  <br>🌱I started with small JavaScript projects,explored Python along the way and now I'm diving into the MERN stack.  <br>🔭I love building things that look clean, feel intuitive, and actually work (most of the time).
@@ -16,5 +16,5 @@ If you're into web development, MERN, or just learning tech together, feel free 
 ![](https://nirzak-streak-stats.vercel.app/?user=okayruhhhh&theme=rose&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=okayruhhhh&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-###🤔i’m looking for help with ...
+#🤔i’m looking for help with ...
 ~suggestions for better learning paths, helpful resources, and guidance on improving tech journey
